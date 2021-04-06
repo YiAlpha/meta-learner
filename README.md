@@ -10,7 +10,9 @@ This project is to gauge the individual treatment effect in randomized controlle
 
 - Python : `econml`, `linearmodels`, `statsmodels` `sklearn`
 
-**Scope**
+**Data and Scope**
+
+*Note: Data sets are not posted due to privacy and intellectual property concerns. Special thanks to Dr. Don Green grants me the access to the data files.*
 
 - Exploratory analysis on three text-messaging voter mobilization experiments
   conducted before 2016 general election.
