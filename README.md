@@ -20,7 +20,7 @@ This project is to gauge the individual treatment effect in randomized controlle
   |       One Arizona Campaign            |     200,442 |   50,187   |`code/One Arizona Experiment.ipynb`|
   |         NextGen Climate Campaign          |   94,257   |   94,229   |`code/NextGen Climate Experiment.ipynb`|
   |          Vote.org         |  905,396    |    301,920  |`code/Vote Org Experiment.ipynb`|
- | Pooled  |  1,019,697 |  446,336 |  `code/Pooled Analysis.ipynb`  | 
+ |Pooled   | 1,019,697  | 446,336 |  `code/Pooled Analysis.ipynb`   |
 
 - Estimate individual treatment by regression with interaction term
 - Estimate individual treatment by meta-learner approach
