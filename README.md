@@ -1,6 +1,6 @@
-# Optimize Intervention Allocation in Field Experiments
+# Optimize Intervention Allocation in A/B Testing
 
-This project is to gauge the individual treatment effect in randomized controlled trials using Meta-Learner, a machine learning framework. And then provide advice for next round intervention allocation based on the pattern we found in individual effects. You can read my full description in [thesis.pdf](https://github.com/YiAlpha/meta-learner/blob/main/Thesis.pdf).
+This project is to gauge the individual treatment effect in randomized controlled trials (RCT) using Meta-Learner, a machine learning framework. And then provide advice for next round intervention allocation based on the pattern we found in individual effects. You can read my full description in [thesis.pdf](https://github.com/YiAlpha/meta-learner/blob/main/Thesis.pdf).
 
 **Affiliation**: [Institute for Social and Economic Research and Policy](http://iserp.columbia.edu/), Columbia University.
 
@@ -9,6 +9,11 @@ This project is to gauge the individual treatment effect in randomized controlle
 **Software**:  
 
 - Python : `econml`, `linearmodels`, `statsmodels` `sklearn`
+
+**Reference**
+
+- [Paper Introduction to Meta-Learner](https://arxiv.org/pdf/1706.03461.pdf)
+- Computation about meta-learner: [EconML](https://github.com/microsoft/EconML)
 
 **Data and Scope**
 
